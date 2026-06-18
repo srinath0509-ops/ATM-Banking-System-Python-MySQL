@@ -94,6 +94,14 @@ Or copy and run the SQL commands from `database_setup.sql`.
 ### Mini Statement
 ![Mini Statement](screenshots/mini_statement.png)
 
+## Database Records
+
+### Accounts Table
+![Accounts](screenshots/accounts_table.png)
+
+### Transactions Table
+![Transactions](screenshots/transactions_table.png)
+
 ---
 
 ## 🎯 Learning Outcomes
