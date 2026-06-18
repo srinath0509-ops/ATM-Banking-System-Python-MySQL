@@ -97,10 +97,10 @@ Or copy and run the SQL commands from `database_setup.sql`.
 ## Database Records
 
 ### Accounts Table
-![Accounts](screenshots/accounts_table.png)
+![Accounts](screenshots/Accounts Table.png)
 
 ### Transactions Table
-![Transactions](screenshots/transactions_table.png)
+![Transactions](screenshots/Transactions Table.png)
 
 ---
 
